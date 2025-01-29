@@ -1,7 +1,7 @@
 # Web Portfolio
 
 ## Description
-This web portfolio showcases my skills in web development, featuring a modern, responsive design created using HTML, CSS, and JavaScript. It includes sections highlighting my projects, skills, experience, and contact information.
+A web portfolio showcases my skills in web development, featuring responsive design created using HTML, CSS, and JavaScript. It includes sections highlighting my projects, skills, experience, and contact information.
 
 ## Features
 - **Responsive Design**: Ensures the portfolio looks great on all devices, from desktops to mobile phones.
